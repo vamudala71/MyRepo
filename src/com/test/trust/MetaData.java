@@ -1,6 +1,11 @@
 package com.test.trust;
 
 import java.util.ArrayList;
+/**
+ * Meta data for the trust rule
+ * @author amudalav
+ *
+ */
 
 public class MetaData {
 
